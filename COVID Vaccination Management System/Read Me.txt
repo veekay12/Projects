@@ -1,0 +1,15 @@
+This is the DBMS mini project brought to you by Vishnu Kashyap, AIML
+
+
+Please extract the vaccinated folder in the htdocs folder of xampp which is usually located here:
+C:\xampp\htdocs\_________ (<- 'vaccinated' folder to be extracted)
+
+
+You can access the webpage followed by the enitre project with this link:
+http://localhost/vaccinated/admin/login.php
+
+NOTE: to open the webpage please 'start' the Apache and MySQL modules in the XAMPP Control Panel as this project is a server based one.
+
+Below the folder is also given the complete report of the project - 'CVMS_final_report'
+
+Thank you. 
