@@ -7,9 +7,10 @@ ape_report.pdf
 
 This is the comprehensive report of the project consisting of all the summarized information in the IEEE framework of presentation. It can be referred for better understanding of the code along with it's code snippets and basic descriptions of all the utilized programming libraries.
 
-poseapp-directory
+poseapp_link.md
 -----------------
 
+This is the file containing the link to the poseapp directory.
 This is the Android Studio Project directory which can be directly extracted here:
 (C:\Users\[user_name]\AndroidStudioProjects)
 and the directory can be opened on Android Studio.
