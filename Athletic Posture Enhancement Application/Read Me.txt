@@ -1,0 +1,25 @@
+This is the Athletic Posture Enhancement application project which has been deployed as an android application running on Java API with Google ML Kit integration for it's Machine Learning generated posture detecting model and Google Firebase connection for registering and handling user information.
+
+The files in this directory are:
+
+ape_report.pdf
+--------------
+
+This is the comprehensive report of the project consisting of all the summarized information in the IEEE framework of presentation. It can be referred for better understanding of the code along with it's code snippets and basic descriptions of all the utilized programming libraries.
+
+poseapp-directory
+-----------------
+
+This is the Android Studio Project directory which can be directly extracted here:
+(C:\Users\[user_name]\AndroidStudioProjects)
+and the directory can be opened on Android Studio.
+
+To reach the Pose detection Java code follow this path:
+app->src->main->java->com.example.poseapp->MainActivityMain.java
+(All of the other important java codes are under the java directory and can be individually checked)
+
+To reach the layout description of the application hover over to:
+app->src->main->java->res->layout->activity_main_main.xml
+(The other layout XML files are also located under layout directory and can be checked)
+
+By connecting an Android Smartphone with Android Version above Android 4.4 (Kit Kat) and with it's Developer Mode configuration on ON, then this application can be installed from the computer to the device on USB/Wireless WiFi connection.
