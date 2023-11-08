@@ -5,10 +5,10 @@ face_emotion_recognition_report.pdf
 
 This is the comprehensive report of the Facial Emotion Recognition Project consisting of the general information on Digital Image Processing, abstarct and technicalities of the project
 
-face_recog.7z
+face_recog_link
 --------------
 
-This is a compressed 7 Zip file consisting of the python written code file - DIP-PROJ.ipynb, which is to be run for analyzing the input images fed under the "PrivateTest_#####.jpg" image names. 
+This is alink to the compressed 7 Zip file (face_recog.7z) consisting of the python written code file - DIP-PROJ.ipynb, which is to be run for analyzing the input images fed under the "PrivateTest_#####.jpg" image names. 
 The fer2013.csv dataset is the comma separated variables file consisting of the description values of over 30,000 images used for training the emotion detecting model.
 
 emotion_model.h5
